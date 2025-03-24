@@ -27,7 +27,7 @@
 - **Resource**: [CCNA 200-301 Playlist](https://youtube.com/playlist?list=PLAqaqJU4wzYXBeFUFYs4qQ2qnWm_28xBV)
 
 ### 5. CompTIA Security+
-- **Resource**: [Security+ SY0-601 Course](https://mega.nz/folder/63JhwL5R#Rvx2OfbrfUL4x9AaTDTj2Q)  
+- **Resource**: [Security+ SY0-601 Course]([https://mega.nz/folder/63JhwL5R#Rvx2OfbrfUL4x9AaTDTj2Q](https://mega.nz/folder/GrAA1RTZ#xIrWTPN1yuMNKcLnzOm57Q))  
   _Covers core security concepts and best practices._
 
 ### 6. eJPTv1 (Entry-Level Pentesting)
