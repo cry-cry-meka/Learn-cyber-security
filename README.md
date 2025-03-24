@@ -27,11 +27,11 @@
 - **Resource**: [CCNA 200-301 Playlist](https://youtube.com/playlist?list=PLAqaqJU4wzYXBeFUFYs4qQ2qnWm_28xBV)
 
 ### 5. CompTIA Security+
-- **Resource**: [Security+ SY0-601 Course](https://netriders.academy/courses/security/lesson/00-security-sy0-601-course-introduction/)  
+- **Resource**: [Security+ SY0-601 Course](https://mega.nz/folder/63JhwL5R#Rvx2OfbrfUL4x9AaTDTj2Q)  
   _Covers core security concepts and best practices._
 
 ### 6. eJPTv1 (Entry-Level Pentesting)
-- **Resource**: [eJPT Prep Course](https://netriders.academy/courses/penetration-testing-student/lesson/00-course-introduction-3/)
+- **Resource**: [eJPT Prep Course](https://mega.nz/folder/63JhwL5R#Rvx2OfbrfUL4x9AaTDTj2Q)
 
 ### 7. Web Application Pentesting
 - **Resource**: [Web App Pentesting Playlist](https://www.youtube.com/playlist?list=PLv7cogHXoVhXvHPzIl1dWtBiYUAL8baHj)
