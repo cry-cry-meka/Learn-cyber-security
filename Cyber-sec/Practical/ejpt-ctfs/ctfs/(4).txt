@@ -1,0 +1,83 @@
+====================================================================
+======== Penetration Testing Student Course, eJPT Certificate ======
+============== Provided By INE, Teached By: Ahmed Sultan ===========
+============= Free Labs Provided by: Amr Abdel Hamide ==============
+========= Visit "https://netriders.academy" for More Courses =======
+====================================================================
+====================== Section 4 Free Labs =========================
+
+                   [Total Course Labs = 75 Labs]
+
+
+==========================================================================================================
+
+**Web Application Penetration Testing**
+
+Basic :
+
+1 : https://tryhackme.com/room/webfundamentals
+2 : https://tryhackme.com/room/webappsec101
+3 : https://tryhackme.com/room/webapplicationbasics
+4 : https://tryhackme.com/room/javascriptessentials
+5 : https://tryhackme.com/room/burpsuitebasics
+6 : https://tryhackme.com/room/owasptop102021
+7 : https://tryhackme.com/room/how websites work
+8 : https://tryhackme.com/room/httpindetail
+9 : https://tryhackme.com/room/owaspjuiceshop
+10 :https://tryhackme.com/room/dnsindetail
+11 :https://tryhackme.com/room/puttingitalltogether
+12 :https://tryhackme.com/room/walkinganapplication
+
+
+=====>> Vulnerabilities: SQL INJECTION 💉<<=====
+
+
+13 : https://tryhackme.com/room/sqlfundamentals
+14 : https://tryhackme.com/room/advancedsqlinjection
+15 : https://tryhackme.com/room/sqlinjectionlm
+16 : https://portswigger.net/web-security/sql-injection/lab-retrieve-hidden-data
+17 : https://portswigger.net/web-security/sql-injection/lab-login-bypass
+18 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-oracle
+19 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-querying-database-version-mysql-microsoft
+20 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-non-oracle
+21 : https://portswigger.net/web-security/sql-injection/examining-the-database/lab-listing-database-contents-oracle
+22 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-determine-number-of-columns
+23 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-find-column-containing-text
+24 : https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-data-from-other-tables
+25: https://portswigger.net/web-security/sql-injection/union-attacks/lab-retrieve-multiple-values-in-single-column
+26 : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-responses
+27 : https://portswigger.net/web-security/sql-injection/blind/lab-conditional-errors
+28 : https://portswigger.net/web-security/sql-injection/blind/lab-time-delays
+
+=====>> Vulnerabilities: XSS <<=====
+
+29 : https://portswigger.net/web-security/cross-site-scripting/reflected/lab-html-context-nothing-encoded
+30 : https://portswigger.net/web-security/cross-site-scripting/stored/lab-html-context-nothing-encoded
+31 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink
+32 : https//portswigger.net/web-security/cross-site-scripting/dom-based/lab-innerhtml-sink
+33 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-href-attribute-sink
+34 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-jquery-selector-hash-change-event
+35 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-attribute-angle-brackets-html-encoded
+36 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-href-attribute-double-quotes-html-encoded
+37 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-string-angle-brackets-html-encoded
+38 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink-inside-select-element
+39 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-angularjs-expression
+40 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-dom-xss-reflected
+41 : https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-dom-xss-stored
+42 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-most-tags-and-attributes-blocked
+43 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-all-standard-tags-blocked
+44 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-html-context-with-all-standard-tags-blocked
+45 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-some-svg-markup-allowed
+46 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-canonical-link-tag
+47 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-string-single-quote-backslash-escaped
+48 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-string-angle-brackets-double-quotes-encoded-single-quotes-escaped
+49 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-onclick-event-angle-brackets-double-quotes-html-encoded-single-quotes-backslash-escaped
+50 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-template-literal-angle-brackets-single-double-quotes-backslash-backticks-escaped
+51 : https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-stealing-cookies
+52 : https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-capturing-passwords
+53 : https://portswigger.net/web-security/cross-site-scripting/exploiting/lab-perform-csrf
+54 : https://portswigger.net/web-security/cross-site-scripting/contexts/client-side-template-injection/lab-angular-sandbox-escape-without-strings
+46 : https://portswigger.net/web-security/cross-site-scripting/contexts/client-side-template-injection/lab-angular-sandbox-escape-and-csp
+47 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-event-handlers-and-href-attributes-blocked
+48 : https://portswigger.net/web-security/cross-site-scripting/contexts/lab-javascript-url-some-characters-blocked
+49 : https://portswigger.net/web-security/cross-site-scripting/content-security-policy/lab-csp-bypass

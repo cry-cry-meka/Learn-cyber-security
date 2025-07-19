@@ -1,0 +1,85 @@
+====================================================================
+======== Penetration Testing Student Course, eJPT Certificate ======
+============== Provided By INE, Teached By: Ahmed Sultan ===========
+============= Free Labs Provided by: Amr Abdel Hamide ==============
+========= Visit "https://netriders.academy" for More Courses =======
+====================================================================
+====================== Section 3 Free Labs =========================
+
+                   [Total Course Labs = 75 Labs]
+
+
+1 : https://tryhackme.com/room/networkingconcepts
+2 : https://tryhackme.com/room/networkingessentials
+3 : https://tryhackme.com/room/networkingcoreprotocols
+5 : https://tryhackme.com/room/wiresharkthebasics
+6 : https://tryhackme.com/room/tcpdump
+7 : https://tryhackme.com/room/windowsprivesc20
+8 : https://tryhackme.com/room/blue
+9 : https://tryhackme.com/room/monikerlink
+10 : https://tryhackme.com/room/metasploitexploitation
+11 : https://tryhackme.com/room/metasploitintro
+12 : https://tryhackme.com/room/meterpreter
+13 : https://tryhackme.com/room/blue
+14 : https://tryhackme.com/room/windowslocalpersistence
+15 : https://tryhackme.com/room/linprivesc
+16 : https://tryhackme.com/room/introtosecurityarchitecture
+17 : https://tryhackme.com/room/linuxsystemhardening
+18 : https://tryhackme.com/room/networksecurityprotocols
+19 : https://tryhackme.com/room/commonlinuxprivesc
+20 : https://tryhackme.com/room/linuxprivesc
+21 : https://tryhackme.com/room/passiverecon
+22 : https://tryhackme.com/room/activerecon
+23 : https://tryhackme.com/room/nmap01
+24 : https://tryhackme.com/room/nmap02
+25 : https://tryhackme.com/room/nmap03
+26 : https://tryhackme.com/room/furthernmap
+27 : https://tryhackme.com/room/gamingserver
+28 : https://tryhackme.com/room/overlayfs)
+29 : https://tryhackme.com/room/psychobreak)
+30 : https://tryhackme.com/room/cowboyhacker)
+31 : https://tryhackme.com/room/ctf)
+32 : https://tryhackme.com/room/rrootme)
+33 : https://tryhackme.com/room/attackerkb)
+34 : https://tryhackme.com/room/picklerick)
+35 : https://tryhackme.com/room/c4ptur3th3fl4g)
+36 : https://tryhackme.com/room/bsidesgtlibrary)
+37 : https://tryhackme.com/room/bsidesgtthompson)
+38 : https://tryhackme.com/room/easyctf)
+39 : https://tryhackme.com/room/lazyadmin)
+40 : https://tryhackme.com/room/bsidesgtanonforce)
+41 : https://tryhackme.com/room/ignite)
+42 : https://tryhackme.com/room/wgelctf)
+43 : https://tryhackme.com/room/cryptographyfordummies)
+44 : https://tryhackme.com/room/crackthehash)
+45 : https://tryhackme.com/room/crackthehashlevel2)
+46 : https://tryhackme.com/room/agentsudoctf)
+47 : https://tryhackme.com/room/bruteit)
+48 : https://tryhackme.com/room/kenobi)
+49 : https://tryhackme.com/room/bsidesgtdav)
+50 : https://tryhackme.com/room/ninjaskills)
+51 : https://tryhackme.com/room/ice)
+52 : https://tryhackme.com/room/lianyu)
+53 : https://tryhackme.com/room/thecodcaper)
+54 : https://tryhackme.com/room/blaster)
+55 : https://tryhackme.com/room/encryptioncrypto101)
+56 : https://tryhackme.com/room/startup)
+57 : https://tryhackme.com/room/chillhack)
+58 : https://tryhackme.com/room/colddboxeasy)
+59 : https://tryhackme.com/room/glitch)
+60 : https://tryhackme.com/room/allinonemj)
+61 : https://tryhackme.com/room/archangel)
+62 : https://tryhackme.com/room/cyborgt8)
+63 : https://tryhackme.com/room/lunizzctfnd)
+64 : https://tryhackme.com/room/badbyte)
+65 : https://tryhackme.com/room/teamcw)
+66 : https://tryhackme.com/room/vulnnetnode)
+67 : https://tryhackme.com/room/vulnnetinternal)
+68 : https://tryhackme.com/room/atlas)
+69 : https://tryhackme.com/room/vulnnetroasted)
+70 : https://tryhackme.com/room/catpictures)
+71 : https://tryhackme.com/room/mustacchio)
+72 : https://tryhackme.com/room/vulnversity
+73 : https://tryhackme.com/room/basicpentestingjt
+74 : https://tryhackme.com/room/steelmountain
+75 : https://tryhackme.com/room/kenobi

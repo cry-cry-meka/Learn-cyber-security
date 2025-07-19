@@ -1,0 +1,19 @@
+====================================================================
+======== Penetration Testing Student Course, eJPT Certificate ======
+============== Provided By INE, Teached By: Ahmed Sultan ===========
+============= Free Labs Provided by: Amr Abdel Hamide ==============
+========= Visit "https://netriders.academy" for More Courses =======
+====================================================================
+====================== Section 2 Free Labs =========================
+
+                   [Total Course Labs = 8 Labs]
+
+
+Lab 1 : https://tryhackme.com/room/auditingandmonitoringse
+Lab 2 : https://tryhackme.com/room/seriskmanagement
+Lab 3 : https://tryhackme.com/room/vulnerabilityscanneroverview
+Lab 4 : https://tryhackme.com/room/securityprinciples
+Lab 5 : https://tryhackme.com/room/rpnessusredux
+Lab 6 : https://tryhackme.com/room/mitre
+Lab 7 : https://tryhackme.com/room/yara
+Lab 8 : https://tryhackme.com/room/openvas
